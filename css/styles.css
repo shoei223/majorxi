@@ -10823,7 +10823,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  background: url("assets/Background.png") no-repeat center center fixed;
-  background-size: cover;
-}
